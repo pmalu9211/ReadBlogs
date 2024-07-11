@@ -1,6 +1,7 @@
 Hello there here is the list you can read as well if you like :
 
 https://datatracker.ietf.org/doc/html/rfc6455 WEBSOCKETS 
+https://news.ycombinator.com/news HackerNews
 
 
 THANK YOU!
