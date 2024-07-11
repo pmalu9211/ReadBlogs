@@ -3,6 +3,7 @@ Hello there here is the list you can read as well if you like :
 https://datatracker.ietf.org/doc/html/rfc6455 WEBSOCKETS 
 https://news.ycombinator.com/news HackerNews
 https://datatracker.ietf.org/doc/html/rfc2616 http ietf
+https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ Neural network
 
 
 THANK YOU!
