@@ -1,10 +1,21 @@
 Hello there here is the list you can read as well if you like :
 
-https://datatracker.ietf.org/doc/html/rfc6455 WEBSOCKETS 
-https://news.ycombinator.com/news HackerNews
-https://datatracker.ietf.org/doc/html/rfc2616 http ietf
-https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ Neural network
+WEBSOCKETS 
+https://datatracker.ietf.org/doc/html/rfc6455 
 
+HackerNews
+https://news.ycombinator.com/news 
+
+http ietf
+https://datatracker.ietf.org/doc/html/rfc2616 
+
+Neural network
+https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ 
+
+React Types sheet
+https://react-typescript-cheatsheet.netlify.app/docs/basic/getting-started/forms_and_events/
+
+To learn
 swelist.com
 roadmap.sh
 
