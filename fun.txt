@@ -1,0 +1,7 @@
+more cool stuff
+
+CN 
+nc 127.0.0.1 1234
+nc -llvp 1234
+
+these two when inserted on two different terminals can work like an CN
