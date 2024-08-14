@@ -4,3 +4,4 @@
 
 #### UI
 - [Magic ui](https://magicui.design/)
+- [Next ui](https://nextui.org/docs/components/)
