@@ -9,3 +9,5 @@
 
 #### ICONS
 - [3d icons](https://www.figma.com/community/file/890095002328610853/saly-3d-illustration-pack)
+- [unDraw](https://undraw.co/illustrations)
+- [svgrepo](https://www.svgrepo.com/)
